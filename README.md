@@ -7,7 +7,7 @@ Este proyecto fue optimizado para formar parte de mi portafolio profesional, sir
 ---
 
 ## 🚀 Demo En Vivo
-🔗 [Explora la experiencia interactiva aquí]((https://lightning-race-invitation.vercel.app/))
+🔗 [Explora la experiencia interactiva aquí](https://lightning-race-invitation.vercel.app/)
 
 ---
 
